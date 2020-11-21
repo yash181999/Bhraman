@@ -1,16 +1,24 @@
-# bhraman
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Code With Onboarding Screen, Login Signup with google and email;
+Technologies Used Firebase and Flutter SDK. 
 
-A few resources to get you started if this is your first Flutter project:
+As by now , Homescreen of the app is completed which have information about monuments ,festival , food , culture , core places , location, entry fee which includes multi-limgual support too .
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+As by now , B-guide has been added which is our AI powered chatbot cum smart guide , based on naive bayes algoritham and natural language processing .
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# ON Boarding Screen
+
+![hello](https://user-images.githubusercontent.com/47470634/89105740-7d65ae80-d441-11ea-8db6-3abaf288a72b.png)
+
+![hello 2](https://user-images.githubusercontent.com/47470634/89105828-447a0980-d442-11ea-9c7c-e7512518c379.png)
+
+# Home Screen
+
+![hello 3](https://user-images.githubusercontent.com/47470634/89105966-64f69380-d443-11ea-86d1-4924d2c738f5.png)
+
+# B-Guide and Charcha
+
+![hello4](https://user-images.githubusercontent.com/47470634/89116323-7033d880-d4b0-11ea-8aa7-37433cd845a2.PNG)
