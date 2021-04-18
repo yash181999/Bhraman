@@ -1,11 +1,11 @@
 
 
 
-This app is the prototype for our idea for Smart India Hackthon 2020 Problem Statement.\
+This app is the prototype for our idea for Smart India Hackthon 2020 Problem Statement.
 
-The problem statement is to increase the awareness about the tangible and intangible heritage of India among the people.\
+The problem statement is to increase the awareness about the tangible and intangible heritage of India among the people.
 
-My team Clout-9 won the Hackathon and got the price money of 1 lack rupees.\
+My team Clout-9 won the Hackathon and got the price money of 1 lack rupees.
 
 
 # ON Boarding Screen
