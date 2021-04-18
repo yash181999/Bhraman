@@ -1,12 +1,11 @@
 
 
 
-Code With Onboarding Screen, Login Signup with google and email;
-Technologies Used Firebase and Flutter SDK. 
+This app is the prototype for our idea for Smart India Hackthon 2020 Problem Statement.\
 
-As by now , Homescreen of the app is completed which have information about monuments ,festival , food , culture , core places , location, entry fee which includes multi-limgual support too .
+The problem statement is to increase the awareness about the tangible and intangible heritage of India among the people.\
 
-As by now , B-guide has been added which is our AI powered chatbot cum smart guide , based on naive bayes algoritham and natural language processing .
+My team Clout-9 won the Hackathon and got the price money of 1 lack rupees.\
 
 
 # ON Boarding Screen
